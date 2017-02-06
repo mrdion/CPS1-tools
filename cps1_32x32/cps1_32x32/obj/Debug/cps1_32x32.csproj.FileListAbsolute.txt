@@ -1,0 +1,6 @@
+G:\cps1_32x32\cps1_32x32\bin\Debug\cps1_32x32.dll
+G:\cps1_32x32\cps1_32x32\bin\Debug\cps1_32x32.pdb
+G:\cps1_32x32\cps1_32x32\bin\Debug\CharactorLib.dll
+G:\cps1_32x32\cps1_32x32\obj\Debug\cps1_32x32.csprojResolveAssemblyReference.cache
+G:\cps1_32x32\cps1_32x32\obj\Debug\cps1_32x32.dll
+G:\cps1_32x32\cps1_32x32\obj\Debug\cps1_32x32.pdb
